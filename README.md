@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I fell in love with programming after I started learning in October of 2024. I'm looking for a job at this time, ideally writing in Go, but I'm open to Python, C, JavaScript(and TS soon), and I'm a quick learner so if you use a different lang just give me a few weeks to get up to speed. I'd ideally like to work for a small company or startup, so if you're hiring let's chat!
+I fell in love with programming after I started learning in October of 2024. I'm doing some independent contracting while looking for a job at this time. Ideally writing in Go, but I'm open to Python, C, JavaScript(and TS soon), and I'm a quick learner so if you use a different lang just give me a few weeks to get up to speed. I'd ideally like to work for a small company or startup, so if you're hiring let's chat!
 
-- Junior Level Proficiency
+- Junior Level Proficiency:
     - Go
     - Python
-- Comfortable but don't know much detail
+- Comfortable but don't know much detail:
     - JavaScript
     - C
     - SQLite/Postgres
