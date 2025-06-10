@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/c4b69ebb-dafa-43c1-adef-07fdfefc7e9f/thumbnail" style="width: 18vw; min-width: 330px;" />
+  <img src="https://api.boot.dev/v1/users/public/c4b69ebb-dafa-43c1-adef-07fdfefc7e9f/thumbnail" style="width: 15vw; min-width: 330px;" />
 </p>
